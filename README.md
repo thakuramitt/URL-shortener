@@ -27,7 +27,7 @@
 <h2>🛠️ Installation Steps:</h2>
 
 *   Clone this repo to your local directory (Golang required)
-*   Initiliaze the go mod files & should get an executabel file
+*   Initiliaze the go mod files & should get an executable file
 *   Just run the go executable file and we should see a running server on localhost:8080
 
 
